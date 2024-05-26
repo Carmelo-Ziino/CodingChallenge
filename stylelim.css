@@ -1,0 +1,75 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("background.jpg");
+}
+
+.Quadrato {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.294);
+  border-radius: 1%;
+  width: 60%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+#logo {
+  width: 15%;
+  padding-top: 5%;
+}
+
+#testo-intestazione {
+  color: #00dd00;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+  font-weight: bold;
+}
+#pulsanti {
+  background-color: #00dd00;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 2.5px;
+}
+
+.Gino,
+.Mike,
+.Fede {
+  color: white;
+  text-align: left;
+  padding-left: 9.5%;
+  padding-top: 0.5%;
+  line-height: 2;
+}
+
+#monopattino {
+  font-size: 15pt;
+  font-family: blanquotey;
+}
+
+hr {
+  border-style: solid;
+  border-width: 2.5mm;
+  border-radius: 3px;
+  margin-left: 9.5%;
+}
+
+#hrgino {
+  color: orange;
+  margin-right: 58%;
+}
+
+#hrmike {
+  color: #00dd00;
+  margin-right: 38%;
+}
+
+#hrfede {
+  color: red;
+  margin-right: 75%;
+}
+
+footer {
+  color: white;
+  font-size: 9pt;
+  font-family: blanquotey;
+}
